@@ -14,7 +14,7 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 
 | [![MElemental](https://github.com/MElemental.png?size=100)](https://github.com/MElemental) |
 | ---------------------------------------------------------------------------------------- |
-| [Zeno Rocha](https://github.com/MElemental)                                               |
+| [MElemental](https://github.com/MElemental)                                               |
 
 ## Community
 
